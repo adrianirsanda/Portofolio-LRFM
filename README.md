@@ -23,5 +23,5 @@ Deskripsi kolom yang penting (diasumsikan):
 - `Recency` - Tanggal analisis - tanggal transaksi terakhir pelanggan
 - `Frequency` - Jumlah transaksi pelanggan selama periode
 - `Monetary` - Total nilai transaksi pelanggan selama periode
-Link Tableau Public:
+## Link Tableau Public:
 [Tableau](https://public.tableau.com/app/profile/adrian.irsanda/viz/DashboardLRFM/DashboardLRFM)
